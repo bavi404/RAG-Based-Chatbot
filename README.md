@@ -7,3 +7,5 @@ A Streamlit-based Retrieval-Augmented Generation (RAG) chatbot that answers quer
 ```bash
 pip install -r requirements.txt
 streamlit run ui/app.py
+
+Be sure to utilise your personal OpenAI key to run this application successfully. 
